@@ -36,19 +36,37 @@ How many times 'Smelly Cat'
 How many times Joey mentions pizza
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+After some research, I was able to find complete transcripts provided at this [github repo](https://github.com/shilpibhattacharyya/Friends_Analysis/tree/master/transcripts_friends) where every episode from every season was merged to form 10 text files representing each season respectively.
+
+Once the necessary data transformation has been done, the application of data analysis though python and its associated libraries made way to insights and further questions and improvements.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Top level workflow was as follows:
+* Find transcripts
+* Study content
+* Data wrangling
+* Create modules
+* Create final dataframe
+* Analyse and and gain insights
 
-What does your repository look like? Explain your folder and file structure.
+
+## Organization
+I used a trello board to stay on top of things.
+
+My repo is straight forward with the following structure:
+* your-project folder:
+    - images used
+    - modules created
+    - transcripts of 10 seasons
+    - code to analyse and narrow down content
+    - paper that explains insights
+
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/Yazfm/Project-Week-5-Your-Own-Project/tree/master/your-project)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/dBIqboHr/projectweek5)  
