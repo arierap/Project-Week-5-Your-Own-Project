@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Project week 5 - Friends TV show analysis
 *Yazan Masarweh*
 
 *DAFT - Jan 2020, Barcelona, You 18/Feb/2020*
